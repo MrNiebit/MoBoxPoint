@@ -1,6 +1,6 @@
 package org.mossmc.mosscg.MoBoxPoint.User;
 
-import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson2.JSONObject;
 import org.mossmc.mosscg.MoBoxPoint.Main;
 import org.mossmc.mosscg.MoBoxPoint.Mysql.MysqlGetData;
 

@@ -1,6 +1,6 @@
 package org.mossmc.mosscg.MoBoxPoint.Command;
 
-import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson2.JSONObject;
 import org.bukkit.command.CommandSender;
 import org.mossmc.mosscg.MoBoxPoint.User.UserGet;
 

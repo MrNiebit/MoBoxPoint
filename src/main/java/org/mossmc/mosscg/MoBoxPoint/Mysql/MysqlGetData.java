@@ -1,7 +1,7 @@
 package org.mossmc.mosscg.MoBoxPoint.Mysql;
 
-import com.alibaba.fastjson.JSON;
-import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson2.JSON;
+import com.alibaba.fastjson2.JSONObject;
 import org.mossmc.mosscg.MoBoxPoint.Cache.CacheUser;
 import org.mossmc.mosscg.MoBoxPoint.Data.DataBasic;
 import org.mossmc.mosscg.MoBoxPoint.Main;

@@ -1,9 +1,8 @@
 package org.mossmc.mosscg.MoBoxPoint.User;
 
-import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson2.JSONObject;
 import org.bukkit.Bukkit;
 import org.bukkit.OfflinePlayer;
-import org.bukkit.entity.Player;
 import org.mossmc.mosscg.MoBoxPoint.Data.DataUpdate;
 import org.mossmc.mosscg.MoBoxPoint.Main;
 import org.mossmc.mosscg.MoBoxPoint.Mysql.MysqlGetData;

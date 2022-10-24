@@ -1,9 +1,9 @@
 package org.mossmc.mosscg.MoBoxPoint.Data;
 
-import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson2.JSONObject;
 
 public class DataUpdate {
-    public static void addScore(JSONObject data,String key,int score) {
+    public static void addScore(JSONObject data, String key, int score) {
         int newScore;
         if (data.containsKey(key)) {
             newScore = data.getInteger(key)+score;

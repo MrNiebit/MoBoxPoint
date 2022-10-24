@@ -1,6 +1,6 @@
 package org.mossmc.mosscg.MoBoxPoint.Data;
 
-import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson2.JSONObject;
 
 public class DataBasic {
     /**
