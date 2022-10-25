@@ -31,8 +31,9 @@ public class MysqlGetData {
             e.printStackTrace();
         } finally {
             try {
-                assert connection != null;
-                connection.close();
+                if (connection != null) {
+                    connection.close();
+                }
             } catch (SQLException e) {
                 e.printStackTrace();
             }
